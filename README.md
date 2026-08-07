@@ -100,26 +100,3 @@ When not writing code or debugging edge cases, you'll find me:
 
 > *"The same way I think about game theory and meta-analysis, I think about software — what's the optimal move, and why?"*
 
----
-
-## `> GITHUB STATS`
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MYahya-ee&show_icons=true&theme=github_dark&hide_border=true&title_color=00FF88&icon_color=1F6FEB&text_color=F0F6FC)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MYahya-ee&layout=compact&theme=github_dark&hide_border=true&title_color=00FF88&text_color=F0F6FC)
-
-</div>
-
----
-
-<div align="center">
-
-```
-[ SYSTEM STATUS: ONLINE ] · [ BUILDING IN PUBLIC ] · [ OPEN TO CONNECT ]
-```
-
-*Currently laying the groundwork — one clean commit at a time.*
-
-</div>
