@@ -7,7 +7,7 @@
   █   █   █  █   █   █   █   █
 ```
 
-### `SHAHZAD, MUHAMMAD YAHYA`
+### `MUHAMMAD YAHYA SHAHZAD`
 **[ INCOMING COMPUTING STUDENT · NUST SEECS · FALL 2026 ]**
 
 *AI Engineering & Software Development · Pakistan 🇵🇰*
