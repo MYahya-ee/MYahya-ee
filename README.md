@@ -19,16 +19,6 @@
 
 ---
 
-## `> OPERATOR PROFILE`
-
-```python
-class Developer:
-    name     = "Muhammad Yahya Shahzad"
-    base     = "Islamabad, Pakistan 🇵🇰"
-    school   = "NUST SEECS (Fall 2026)"
-    status   = "Aggressively upskilling"
-    doctrine = "Build first. Understand deeply. Ship clean."
-```
 
 I'm a developer who treats every project like a systems design problem — from how code is structured to how it fails. Currently in deep-dive mode on Python, AI engineering, and cloud-native workflows before I hit NUST SEECS this fall.
 
@@ -69,31 +59,3 @@ A state-driven, turn-based combat simulator built from scratch. Engineered for m
   BACKEND         Supabase ██████░░  (exploring)
   EDITOR          VS Code ████████░░ (daily driver)
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-```
-
-**Interests:** Python · Artificial Intelligence · AI Engineering · System Architecture · Cloud Deployment · Automation
-
----
-
-## `> INTELLIGENCE INTERESTS`
-
-```
-🤖  AI / Machine Learning        — the next frontier
-🐍  Python Engineering           — scripts, logic, systems
-☁️  Cloud & Deployment           — Vercel, Supabase, infra
-🏗️  Software Architecture        — clean, modular, scalable
-```
-
----
-
-## `> OFF-DUTY INTEL`
-
-When not writing code or debugging edge cases, you'll find me:
-
-- ♟️ **Chess** — studying openings and endgame theory
-- 🎮 **Valorant** — analyzing agent compositions and international metas  
-- 🏰 **Age of Empires III** — tactical thinking and civ matchups
-- 📖 **Deep-reading** on AI, tech, and systems thinking
-
-> *"The same way I think about game theory and meta-analysis, I think about software — what's the optimal move, and why?"*
-
