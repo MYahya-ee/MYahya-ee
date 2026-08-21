@@ -28,26 +28,13 @@ I'm a developer who treats every project like a systems design problem — from 
 
 | 🎯 Objective | 📡 Status | 🔧 Tools |
 |---|---|---|
-| Master Python fundamentals | `IN PROGRESS` → CS50P | Python, VS Code |
+| Master Python fundamentals | `IN PROGRESS` → Making projects | Python, VS Code |
 | Ship production-ready AI workflows | `RESEARCHING` | Python, Supabase, Vercel |
 | Learn clean architecture & state-driven logic | `ACTIVE` | Git, Python |
-| Enter NUST SEECS — Computing | `LOCKED IN` → Fall 2026 | 📚 |
+| Enter NUST SEECS — Computing | `Got Admission` → Fall 2026 | 📚 |
 
 ---
 
-## `> DEPLOYED OPERATIONS`
-
-### ⚔️ Tactical Combat Simulator
-```
-TYPE     : Turn-Based Combat Engine
-LANGUAGE : Python
-STATUS   : [ DEPLOYED ]
-```
-A state-driven, turn-based combat simulator built from scratch. Engineered for modularity — with clean separation of game mechanics, CLI argument parsing, and algorithmic combat logic. Designed to be extended, not just run.
-
-> `Focus areas:` Modular architecture · Exception handling · CLI design · Algorithmic state management
-
----
 
 ## `> TECH LOADOUT`
 
