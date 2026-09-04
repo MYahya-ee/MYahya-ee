@@ -1,11 +1,3 @@
-<!-- HEADER -->
-<div align="center">
-
-```
-█▄ ▄█  ▄█▄   █   █ █▄ ▄█  ▄█▄ 
-▀█▄█▀ █▄▄▄█  █████ ▀█▄█▀ █▄▄▄█
-  █   █   █  █   █   █   █   █
-```
 
 ### `MUHAMMAD YAHYA SHAHZAD`
 **[ SOFTWARE ENGINEERING STUDENT · NUST SEECS · FALL 2026 ]**
