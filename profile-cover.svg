@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="310" viewBox="0 0 1200 310" role="img" aria-labelledby="title desc">
+  <title id="title">Yahya Shahzad — engineering notes</title>
+  <desc id="desc">An editorial engineering notebook cover with a layered software system diagram.</desc>
+  <defs>
+    <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse">
+      <path d="M24 0H0V24" fill="none" stroke="#d8d2c5" stroke-width="0.8"/>
+    </pattern>
+    <pattern id="microgrid" width="6" height="6" patternUnits="userSpaceOnUse">
+      <circle cx="1" cy="1" r="0.65" fill="#c8c0b1"/>
+    </pattern>
+    <marker id="arrow" markerWidth="8" markerHeight="8" refX="6" refY="3" orient="auto" markerUnits="strokeWidth">
+      <path d="M0,0 L6,3 L0,6 Z" fill="#1d3eff"/>
+    </marker>
+  </defs>
+  <rect width="1200" height="310" fill="#f3f0e8"/>
+  <rect width="1200" height="310" fill="url(#grid)" opacity="0.72"/>
+  <rect x="0" y="0" width="1200" height="8" fill="#151515"/>
+  <rect x="0" y="8" width="11" height="302" fill="#f04a2d"/>
+
+  <g font-family="'Courier New', monospace" fill="#292821">
+    <circle cx="47" cy="43" r="5" fill="#f04a2d"/>
+    <text x="62" y="47" font-size="13" letter-spacing="1.6">FIELD NOTES / SOFTWARE ENGINEERING</text>
+    <text x="1148" y="47" font-size="12" text-anchor="end" letter-spacing="1.4">VOL. 01 — 2026</text>
+  </g>
+  <line x1="42" y1="62" x2="1158" y2="62" stroke="#aaa393" stroke-width="1"/>
+
+  <g font-family="Arial, Helvetica, sans-serif" font-weight="800" letter-spacing="-2">
+    <text x="43" y="142" font-size="66" fill="#171714">YAHYA</text>
+    <text x="43" y="207" font-size="66" fill="#1d3eff">SHAHZAD</text>
+  </g>
+  <g font-family="'Courier New', monospace" fill="#34332d">
+    <text x="48" y="239" font-size="13" letter-spacing="1.1">SOFTWARE ENGINEERING STUDENT</text>
+    <text x="48" y="260" font-size="13" letter-spacing="1.1">NUST SEECS  /  PAKISTAN</text>
+  </g>
+  <line x1="48" y1="279" x2="478" y2="279" stroke="#171714" stroke-width="2"/>
+  <rect x="48" y="278" width="76" height="3" fill="#f04a2d"/>
+  <text x="493" y="284" font-family="'Courier New', monospace" font-size="11" fill="#686357" letter-spacing="1.2">FROM UI TO SYSTEMS</text>
+
+  <!-- schematic panel -->
+  <rect x="720" y="78" width="438" height="199" fill="#eee9de" stroke="#aaa393" stroke-width="1"/>
+  <rect x="720" y="78" width="438" height="26" fill="#171714"/>
+  <text x="736" y="95" font-family="'Courier New', monospace" font-size="11" fill="#f3f0e8" letter-spacing="1.5">SYSTEM SKETCH / 001</text>
+  <text x="1142" y="95" font-family="'Courier New', monospace" font-size="10" fill="#c6c0b3" text-anchor="end">NOT TO SCALE</text>
+
+  <g font-family="'Courier New', monospace">
+    <rect x="746" y="132" width="104" height="55" fill="#f3f0e8" stroke="#171714" stroke-width="1.5"/>
+    <text x="798" y="153" font-size="10" fill="#777064" text-anchor="middle">01 / VIEW</text>
+    <text x="798" y="173" font-size="15" fill="#171714" font-weight="bold" text-anchor="middle">UI</text>
+
+    <rect x="887" y="132" width="104" height="55" fill="#f3f0e8" stroke="#1d3eff" stroke-width="2"/>
+    <text x="939" y="153" font-size="10" fill="#1d3eff" text-anchor="middle">02 / RULES</text>
+    <text x="939" y="173" font-size="15" fill="#171714" font-weight="bold" text-anchor="middle">LOGIC</text>
+
+    <rect x="1028" y="132" width="104" height="55" fill="#f3f0e8" stroke="#171714" stroke-width="1.5"/>
+    <text x="1080" y="153" font-size="10" fill="#777064" text-anchor="middle">03 / STATE</text>
+    <text x="1080" y="173" font-size="15" fill="#171714" font-weight="bold" text-anchor="middle">DATA</text>
+  </g>
+  <path d="M850 159H882" stroke="#1d3eff" stroke-width="2" fill="none" marker-end="url(#arrow)"/>
+  <path d="M991 159H1023" stroke="#1d3eff" stroke-width="2" fill="none" marker-end="url(#arrow)"/>
+
+  <path d="M798 188V211H1080V188" fill="none" stroke="#aaa393" stroke-width="1.2" stroke-dasharray="4 4"/>
+  <circle cx="939" cy="211" r="4" fill="#f04a2d"/>
+  <g font-family="'Courier New', monospace" fill="#5e594e" font-size="10">
+    <text x="741" y="244">CURRENT: WEB FOUNDATIONS</text>
+    <text x="1137" y="244" text-anchor="end">NEXT: FULL-STACK</text>
+  </g>
+  <rect x="1100" y="261" width="32" height="5" fill="#f04a2d"/>
+  <rect x="1137" y="261" width="5" height="5" fill="#1d3eff"/>
+</svg>
